@@ -29,5 +29,4 @@ Project Structure
 * auth.h – Login functionality
 * items.h – Item operations (add, view, search)
 * helpers.h – File-related constants
-
-items.txt – Data storage file
+* items.txt – Data storage file
