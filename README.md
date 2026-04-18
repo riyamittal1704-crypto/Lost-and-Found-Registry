@@ -20,7 +20,9 @@ Stores and retrieves data using a text file (items.txt).
 Technologies Used
 
 C Programming Language
+
 File Handling (fopen, fprintf, fgets, etc.)
+
 Modular Programming using header files
 
 Project Structure
