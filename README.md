@@ -18,13 +18,19 @@ Allows searching for items using keywords.
 Stores and retrieves data using a text file (items.txt).
 
 Technologies Used
+
 C Programming Language
 File Handling (fopen, fprintf, fgets, etc.)
 Modular Programming using header files
 
 Project Structure
+
 main.c – Handles menu and program flow
+
 auth.h – Login functionality
+
 items.h – Item operations (add, view, search)
+
 helpers.h – File-related constants
+
 items.txt – Data storage file
