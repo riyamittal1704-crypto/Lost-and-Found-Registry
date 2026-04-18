@@ -25,9 +25,9 @@ Technologies Used
 
 Project Structure
 
-*main.c – Handles menu and program flow
-*auth.h – Login functionality
-*items.h – Item operations (add, view, search)
-*helpers.h – File-related constants
+* main.c – Handles menu and program flow
+* auth.h – Login functionality
+* items.h – Item operations (add, view, search)
+* helpers.h – File-related constants
 
 items.txt – Data storage file
